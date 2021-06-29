@@ -1,4 +1,4 @@
-## **Imports in the project files should have an order.**
+## **Imports in project files must have prioritization.**
 
 # 1 - Global imports
 
@@ -137,7 +137,7 @@ import {valueConstant} from '@utility/constants/valueConstant';
 > import defaultPartAvatar from '@assets/image/defaultPartAvatar.png'
 ```
 
-# :tw-1f31f: Note:
+# Note:
 
 1. You may need some of the above in different situations, so make sure you always prioritize.
 2. Double-check when done your tasks and remove unused import(s).
