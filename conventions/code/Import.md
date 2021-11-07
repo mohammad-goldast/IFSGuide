@@ -145,4 +145,4 @@ import {valueConstant} from '@utility/constants/valueConstant';
 
 # Footnote:
 
-This document is open to update and improve the conventions. So if you have any idea you can talk with team leader to double-check the conventions together.
+This document is open to update and improve the conventions. So if you have any idea you, we can talk  to double-check the conventions together.
